@@ -1,2 +1,2 @@
 # SudokuSolver
-Solves simple sudokus
+Solves simple sudokus; written in C++.
